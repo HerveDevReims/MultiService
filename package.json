@@ -1,0 +1,16 @@
+{
+  "name": "CRNAMulti",
+  "version": "0.0.0",
+  "description": "CRNAMulti",
+  "main": "app.js",
+  "author": {
+    "name": "Zorro",
+    "email": ""
+  },
+  "dependencies": {
+    "dateformat": "^1.0.11",
+    "request": "^2.55.0",
+    "socket.io": "^1.3.5",
+    "xml2js": "^0.4.6"
+  }
+}

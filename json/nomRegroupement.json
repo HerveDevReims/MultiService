@@ -1,0 +1,119 @@
+﻿{
+	"RMS": {
+		"tvName": "LFERMS",
+		"sectors": ["E", "SE", "UE", "XE", "KE", "HE", "UH", "XH", "KH", "HH", "UF", "KF", "KD", "UR", "XR", "KR", "YR", "HR", "UB", "UN", "KN", "HN"]
+		},
+	"URMN": {
+		"tvName": "LFEURMN",
+		"sectors": ["UR", "XR", "KR", "YR", "HR", "UB", "UN", "KN", "HN"]
+		},
+	"URME": {
+		"tvName": "LFEURME",
+		"sectors": ["UE", "XE", "KE", "HE", "UH", "XH", "KH", "HH", "UF", "KF", "KD"]
+		},
+	"RFUE": {
+		"tvName": "LFERFUE",
+		"sectors":  ["E", "SE", "UE", "XE", "KE", "HE", "UH", "XH", "KH", "HH", "UF", "KF", "KD"]
+		},
+	"FIR": {
+		"tvName": "LFEFIR",
+		"sectors": ["E", "SE"]
+		},
+	"5E": {
+		"tvName": "LFE5E",
+		"sectors": ["E", "UE", "XE", "KE", "HE"]
+		},
+	"5H": {
+		"tvName": "LFE5H",
+		"sectors": ["E", "UE", "XE", "KE", "HE"]
+		},
+	"4E": {
+		"tvName": "LFE4E",
+		"sectors": ["UE", "XE", "KE", "HE"]
+		},
+	"4H": {
+		"tvName": "LFE4H",
+		"sectors": ["UH", "XH", "KH", "HH"]
+		},
+	"UXKH": {
+		"tvName": "LFEFIR",
+		"sectors": ["UH", "XH", "KH"]
+		},
+	"UXH": {
+		"tvName": "LFEUXH",
+		"sectors": ["UH", "XH"]
+		},
+	"KHH": {
+		"tvName": "LFEKHH",
+		"sectors": ["KH", "HH"]
+		},
+	"XKHH": {
+		"tvName": "LFEXKHH",
+		"sectors": ["XH", "KH", "HH"]
+		},
+	"UXKE": {
+		"tvName": "LFEUXKE",
+		"sectors": ["UE", "XE", "KE"]
+		},
+	"UXE": {
+		"tvName": "LFEUXE",
+		"sectors": ["UE", "XE"]
+		},
+	"KHE": {
+		"tvName": "LFEKHE",
+		"sectors": ["KE", "HE"]
+		},
+	"XKHE": {
+		"tvName": "LFEXKHE",
+		"sectors": ["XE", "KE", "HE"]
+		},
+
+	"4N": {
+		"tvName": "LFE4N",
+		"sectors": ["UB", "UN", "KN", "HN"]
+		},
+	"UBN": {
+		"tvName": "LFEUBN",
+		"sectors": ["UB", "UN"]
+		},
+	"UBKN": {
+		"tvName": "LFEUBK",
+		"sectors": ["UB", "UN", "KN"]
+		},
+	"KHN": {
+		"tvName": "LFEKHN",
+		"sectors": ["KN", "HN"]
+		},
+	"5R": {
+		"tvName": "LFE5R",
+		"sectors": ["UR", "XR", "KR", "HR", "YR"]
+		},
+	"KHR": {
+		"tvName": "LFEKHR",
+		"sectors": ["KR", "HR", "YR"]
+		},
+	"UXR": {
+		"tvName": "LFEUXR",
+		"sectors": ["UR", "XR"]
+		},
+	"UXKR": {
+		"tvName": "LFEUXKR",
+		"sectors": ["UR", "XR", "KR"]
+		},
+	"HYR": {
+		"tvName": "LFEHYR",
+		"sectors": ["YR", "HR"]
+		},
+	"HNR": {
+		"tvName": "LFEHNR",
+		"sectors": ["HN", "HR", "YR"]
+		},
+	"KHNR": {
+		"tvName": "LFEKHNR",
+		"sectors": ["HN", "KN", "HR", "YR", "KR"]
+		},
+	"UXNR": {
+		"tvName": "LFEUXNR",
+		"sectors": ["UB", "UN", "UR", "XR"]
+		}
+}

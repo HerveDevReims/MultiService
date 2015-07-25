@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/theme.css" />
+    <title></title>
+</head>
+<body>
+    <div id="offstatus">
+        <div id="clientusername">
+            CdS
+        </div>
+    </div>
+    <div id="positionstatus" class="cadre">CdS</div>
+    <div id="positionsecteur" class="cadre">
+        <div class="confChangeButton" id="switch_P01">P01</div>
+        <div class="confChangeButton" id="switch_P02">P02</div>
+        <div class="confChangeButton" id="switch_P03">P03</div>
+        <div class="confChangeButton" id="switch_P04">P04</div>
+    </div>
+        <div id="busysecteur" class="cadre"></div>
+    <div id="arciddiv" class="cadre">
+        <strong>Interrogation ARCID</strong>
+        <div class='trait'></div>
+        <div id="arcidform">
+            <form id="arcidrequest">
+
+            </form>
+        </div>
+        <div id="arcidresponse">
+        </div>
+    </div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <script src="js/socket.io.js"></script>
+    <script src="js/clientCdS.js"></script>
+    <script src="js/initCdS.js"></script>
+</body>
+</html>

@@ -1,0 +1,170 @@
+{
+	"CdS": {
+		"status": "open",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"FMP": {
+		"status": "open",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P01": {
+		"status": "open",
+		"busy": "no",
+		"sectors": [
+			"UE",
+			"KE",
+			"XE",
+			"HE"
+		],
+		"regroupement": "4E"
+	},
+	"P02": {
+		"status": "open",
+		"busy": "no",
+		"sectors": [
+			"UE",
+			"KE",
+			"XE",
+			"HE"
+		],
+		"regroupement": "4E"
+	},
+	"P03": {
+		"status": "open",
+		"busy": "no",
+		"sectors": [
+			"UE",
+			"KE",
+			"XE",
+			"HE"
+		],
+		"regroupement": "4E"
+	},
+	"P04": {
+		"status": "open",
+		"busy": "very",
+		"sectors": [
+			"UE",
+			"KE",
+			"XE",
+			"HE"
+		],
+		"regroupement": "4E"
+	},
+	"P05": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P06": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P10": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [
+			"KD",
+			"UF",
+			"KF"
+		],
+		"regroupement": ""
+	},
+	"P11": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P12": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P13": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P14": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P15": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P16": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P17": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P20": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P21": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P22": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P23": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P24": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P25": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P26": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	},
+	"P27": {
+		"status": "closed",
+		"busy": "no",
+		"sectors": [],
+		"regroupement": ""
+	}
+}
